@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "customerName": "Tanmay Parmar",
+            "posted": "25 months ago",
+            "review": "\"Good product.\"",
+            "score": 4
+        },
+        {
+            "customerName": "Dilip sharma",
+            "posted": "24 months ago",
+            "review": "\"Ok\"",
+            "score": 5
+        },
+        {
+            "customerName": "Abinash",
+            "posted": "2 months ago",
+            "review": "\"Horrible quality, unusable- the thread comes off\"",
+            "score": 1
+        },
+        {
+            "customerName": "Mona Chaterjee",
+            "posted": "22 months ago",
+            "review": "\"The strings were very weak\"",
+            "score": 3
+        },
+        {
+            "customerName": "Anjali Jain",
+            "posted": "24 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Nitish",
+            "posted": "5 months ago",
+            "review": "\"It was not upto the standards of a surgical mask.\"",
+            "score": 1
+        },
+        {
+            "customerName": "Revathi",
+            "posted": "2 months ago",
+            "review": "\"Liked this mask\"",
+            "score": 5
+        },
+        {
+            "customerName": "Boby mavi",
+            "posted": "25 months ago",
+            "review": "\"xxx\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ishan Kolhe",
+            "posted": "24 months ago",
+            "review": "\"Damage\"",
+            "score": 1
+        },
+        {
+            "customerName": "Avirup Das",
+            "posted": "23 months ago",
+            "review": "\"Band is good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Shree T",
+            "posted": "3 months ago",
+            "review": "\"Very weak and broke down\"",
+            "score": 1
+        }
+    ]
+}

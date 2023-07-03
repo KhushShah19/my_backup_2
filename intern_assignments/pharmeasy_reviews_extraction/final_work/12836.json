@@ -1,0 +1,4042 @@
+{
+    "data": [
+        {
+            "customerName": "Tara Chand Pandey",
+            "posted": "32 months ago",
+            "review": "\"Effective medcin for liver problem\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sandhya Sangai",
+            "posted": "32 months ago",
+            "review": "Satisfied",
+            "score": 5
+        },
+        {
+            "customerName": "Sourav",
+            "posted": "31 months ago",
+            "review": "\"Product is very effective\"",
+            "score": 5
+        },
+        {
+            "customerName": "Khairul Islam",
+            "posted": "31 months ago",
+            "review": "\"Very good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Sameer Naidu",
+            "posted": "31 months ago",
+            "review": "\".\"",
+            "score": 5
+        },
+        {
+            "customerName": "Manzoor Ahmad Masoodi",
+            "posted": "30 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Pradip Jha",
+            "posted": "30 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Koushikbanerjee",
+            "posted": "29 months ago",
+            "review": "\"Useful\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mukund Madhav",
+            "posted": "27 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Jayashree Ghosh",
+            "posted": "27 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Pranesh Bhattacharjee",
+            "posted": "27 months ago",
+            "review": "\"Very effective to improve liver functions\"",
+            "score": 5
+        },
+        {
+            "customerName": "Om Kumar",
+            "posted": "27 months ago",
+            "review": "\"Best\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mitin Kumar Rai",
+            "posted": "27 months ago",
+            "review": "\"Best\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rajesh R",
+            "posted": "26 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Prasanna Mazumdar",
+            "posted": "26 months ago",
+            "review": "\"Like this product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kiran Makhija",
+            "posted": "26 months ago",
+            "review": "\"Prompt delivery system\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kushagra Kumar Rai",
+            "posted": "26 months ago",
+            "review": "\"packaging not good.     1 damage bottle received\"",
+            "score": 3
+        },
+        {
+            "customerName": "Ramesh Chandra Mishra",
+            "posted": "26 months ago",
+            "review": "\"Very nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "PRAKASH KUMAR",
+            "posted": "26 months ago",
+            "review": "\"Like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Pramit Mandal",
+            "posted": "25 months ago",
+            "review": "\"Packaging is good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Hridoy Borkataky",
+            "posted": "25 months ago",
+            "review": "\"K\"",
+            "score": 5
+        },
+        {
+            "customerName": "Pradip Das",
+            "posted": "23 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Santosh Singh",
+            "posted": "23 months ago",
+            "review": "\"Very useful\"",
+            "score": 5
+        },
+        {
+            "customerName": "Naresh Kumar",
+            "posted": "23 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Shyam",
+            "posted": "23 months ago",
+            "review": "\"Simply good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Cx",
+            "posted": "23 months ago",
+            "review": "\"Great\"",
+            "score": 5
+        },
+        {
+            "customerName": "S R S Ravi",
+            "posted": "23 months ago",
+            "review": "\"No use\"",
+            "score": 1
+        },
+        {
+            "customerName": "Bipin Saini",
+            "posted": "23 months ago",
+            "review": "\"Nice\"",
+            "score": 4
+        },
+        {
+            "customerName": "Partha Das",
+            "posted": "23 months ago",
+            "review": "\"Ok\"",
+            "score": 5
+        },
+        {
+            "customerName": "Tulshi Narayan",
+            "posted": "23 months ago",
+            "review": "\"I find it as I have been using others since 10 years back.\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "23 months ago",
+            "review": "\"12345\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "23 months ago",
+            "review": "\"Thanks\"",
+            "score": 5
+        },
+        {
+            "customerName": "Harish Gupta",
+            "posted": "24 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Deepak Anthony",
+            "posted": "24 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kalyan Ghosh",
+            "posted": "23 months ago",
+            "review": "\"A perfect combination forbthe purpose used!\"",
+            "score": 5
+        },
+        {
+            "customerName": "Nirmal Kishor",
+            "posted": "23 months ago",
+            "review": "\"Effective in gasostic problems\"",
+            "score": 5
+        },
+        {
+            "customerName": "Arvind Yadav",
+            "posted": "22 months ago",
+            "review": "\"good service\"",
+            "score": 4
+        },
+        {
+            "customerName": "Murtaza Limbdiwala",
+            "posted": "22 months ago",
+            "review": "\"I is good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sourabh Bhartiya",
+            "posted": "22 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "22 months ago",
+            "review": "\"Regular use\"",
+            "score": 5
+        },
+        {
+            "customerName": "Shajie Mansoor",
+            "posted": "22 months ago",
+            "review": "\"Thank u\"",
+            "score": 5
+        },
+        {
+            "customerName": "Tariq Akhtar Tariq Akhtar",
+            "posted": "22 months ago",
+            "review": "\"Good med for the liver.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Aarti Jain",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 3
+        },
+        {
+            "customerName": "Mahesh",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Sangharsh Singh",
+            "posted": "22 months ago",
+            "review": "\"Good product for liver\"",
+            "score": 4
+        },
+        {
+            "customerName": "Ratnadip Sutradhar",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 3
+        },
+        {
+            "customerName": "Avadhesh Kumar Singh",
+            "posted": "22 months ago",
+            "review": "\"Best product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Meenu Sharma",
+            "posted": "22 months ago",
+            "review": "\"Like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Satnam Singh",
+            "posted": "22 months ago",
+            "review": "\"Nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "P V Dixit",
+            "posted": "25 months ago",
+            "review": "\"Product is very effective...\"",
+            "score": 4
+        },
+        {
+            "customerName": "Maha Singh",
+            "posted": "25 months ago",
+            "review": "\"Desireable results\"",
+            "score": 5
+        },
+        {
+            "customerName": "Anirudh Ganguly",
+            "posted": "25 months ago",
+            "review": "\"Best product to keep your Liver fit.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Deepak",
+            "posted": "24 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Jaskarnjit Singh",
+            "posted": "24 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Nikhil Mishra",
+            "posted": "25 months ago",
+            "review": "\"Very good for liver\"",
+            "score": 4
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "25 months ago",
+            "review": "\"It's very good result\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sourabh",
+            "posted": "24 months ago",
+            "review": "\"Product was already open and seal was already broke.\"",
+            "score": 1
+        },
+        {
+            "customerName": "Vikas Gupta",
+            "posted": "24 months ago",
+            "review": "\"Right medicines\"",
+            "score": 5
+        },
+        {
+            "customerName": "Subhash Karthikeyan",
+            "posted": "24 months ago",
+            "review": "\"Good and effective\"",
+            "score": 5
+        },
+        {
+            "customerName": "Navneet Pande",
+            "posted": "24 months ago",
+            "review": "\"Abe product hii halaat diary tha\"",
+            "score": 1
+        },
+        {
+            "customerName": "Pradeep Gupta",
+            "posted": "24 months ago",
+            "review": "\"It won't show any results\"",
+            "score": 2
+        },
+        {
+            "customerName": "Raghvendra Gupta",
+            "posted": "24 months ago",
+            "review": "\"Good medicine for liver\"",
+            "score": 5
+        },
+        {
+            "customerName": "BIJOYKUMAR MAHATA",
+            "posted": "24 months ago",
+            "review": "\"Nice for liver.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sukanta Bhattacharya",
+            "posted": "24 months ago",
+            "review": "\"Healthy\"",
+            "score": 5
+        },
+        {
+            "customerName": "Jacob N.x.",
+            "posted": "23 months ago",
+            "review": "\"My experience is that the product is exceptionally good for hereditary liver dysfunction in men & women.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sammie",
+            "posted": "23 months ago",
+            "review": "\"Superb product , took 3 files after jaundice and now my LFT Test shows my liver has completely recovered.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Pushpinder Singh",
+            "posted": "23 months ago",
+            "review": "\"Duplicate\"",
+            "score": 1
+        },
+        {
+            "customerName": "Anil Singh",
+            "posted": "23 months ago",
+            "review": "\"Good\"",
+            "score": 3
+        },
+        {
+            "customerName": "Premchandra",
+            "posted": "23 months ago",
+            "review": "\"Your services.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dilip Gaikwad",
+            "posted": "23 months ago",
+            "review": "\"Good\"",
+            "score": 3
+        },
+        {
+            "customerName": "Prakashkumarparhi",
+            "posted": "22 months ago",
+            "review": "\"Like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Shambhu Sharan Choudhary",
+            "posted": "22 months ago",
+            "review": "\"Good service and good morning\"",
+            "score": 5
+        },
+        {
+            "customerName": "Jitendra Mishra",
+            "posted": "22 months ago",
+            "review": "\"Very good and nice rate\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ashutosh",
+            "posted": "22 months ago",
+            "review": "\"Good Product\"",
+            "score": 3
+        },
+        {
+            "customerName": "Shalini Rajvanshi",
+            "posted": "22 months ago",
+            "review": "\"Help in digestion I Feel Better\"",
+            "score": 5
+        },
+        {
+            "customerName": "Saurabh Kumar",
+            "posted": "22 months ago",
+            "review": "\"Good & natural medicine for appetite & liver\"",
+            "score": 4
+        },
+        {
+            "customerName": "Ranju das",
+            "posted": "21 months ago",
+            "review": "\"Its really good product.....\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mukund Jha",
+            "posted": "21 months ago",
+            "review": "\"This is good product of himaliya\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rahul Ranjan",
+            "posted": "21 months ago",
+            "review": "\"Original\"",
+            "score": 4
+        },
+        {
+            "customerName": "Syed Nawaz ",
+            "posted": "15 months ago",
+            "review": "\"Awesome for your liver problems. It cleanses liver\"",
+            "score": 5
+        },
+        {
+            "customerName": "Aseem Jain",
+            "posted": "15 months ago",
+            "review": "\"Like\"",
+            "score": 4
+        },
+        {
+            "customerName": "Aseem Jain",
+            "posted": "15 months ago",
+            "review": "\"Like\"",
+            "score": 4
+        },
+        {
+            "customerName": "md Israfil",
+            "posted": "15 months ago",
+            "review": "\"Yes\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sunil Khattar",
+            "posted": "14 months ago",
+            "review": "\"Printing of Tax Invoice not at all Readable & they are Scattered not at One Place .\"",
+            "score": 1
+        },
+        {
+            "customerName": "Feba",
+            "posted": "14 months ago",
+            "review": "\"Its really good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Vijay Kumar Sharma",
+            "posted": "14 months ago",
+            "review": "\"Product is O.K\"",
+            "score": 4
+        },
+        {
+            "customerName": "SAVITA",
+            "posted": "14 months ago",
+            "review": "\"Very good \ud83d\udc4d\"",
+            "score": 5
+        },
+        {
+            "customerName": "S K Ahluwalia",
+            "posted": "14 months ago",
+            "review": "\"It works\"",
+            "score": 5
+        },
+        {
+            "customerName": "VIPUL PAREKH",
+            "posted": "14 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Prakash Balani",
+            "posted": "13 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Indramani Jena",
+            "posted": "13 months ago",
+            "review": "\"Wand\u00e9rfull\"",
+            "score": 5
+        },
+        {
+            "customerName": "Devadoss.n",
+            "posted": "13 months ago",
+            "review": "\"I got the test results for Liver function.its good.happy with Liv52\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dipanjali Haloi",
+            "posted": "21 months ago",
+            "review": "\"Quality was good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Keshav Kkumar",
+            "posted": "20 months ago",
+            "review": "\"Good for stomach\"",
+            "score": 4
+        },
+        {
+            "customerName": "Samarjit Nath",
+            "posted": "18 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Moatasim Siddiqui",
+            "posted": "15 months ago",
+            "review": "\"Fast delivery\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sanjeev Kumar Ahirwar",
+            "posted": "14 months ago",
+            "review": "\"nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Gdzx",
+            "posted": "13 months ago",
+            "review": "\"Product is ok but prize abeat high\"",
+            "score": 4
+        },
+        {
+            "customerName": "Sharath",
+            "posted": "13 months ago",
+            "review": "\"Good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Srivatsan",
+            "posted": "13 months ago",
+            "review": "\"This is an excellent \\\"Go-To\\\" supplement for all, whether or not you consume alcoholic beverage.\\nIt helps keeping your liver lively \u2728\"",
+            "score": 5
+        },
+        {
+            "customerName": "Jagdish Prasad",
+            "posted": "21 months ago",
+            "review": "\"Like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Suchitra Debnath",
+            "posted": "20 months ago",
+            "review": "\"Thanks pharmEasy\"",
+            "score": 4
+        },
+        {
+            "customerName": "Varaprasad Vadlamani",
+            "posted": "19 months ago",
+            "review": "\"I received LIV 52 drops instead of tablets.\"",
+            "score": 1
+        },
+        {
+            "customerName": "Sritam Mohapatra",
+            "posted": "21 months ago",
+            "review": "\"Prompt delivery\"",
+            "score": 5
+        },
+        {
+            "customerName": "PRABHAT JALAN",
+            "posted": "20 months ago",
+            "review": "\"It's working very good n I am satisfied\"",
+            "score": 5
+        },
+        {
+            "customerName": "Jaydeb Sah",
+            "posted": "20 months ago",
+            "review": "\"I like to this way.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Soonoo Engineer",
+            "posted": "20 months ago",
+            "review": "\"I had taken Liv52 Earlier. It is essentially helps in liver function and digestion.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Jahan Ara",
+            "posted": "20 months ago",
+            "review": "\"It's an excellent medicine and delivered safely.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Prakash Balani",
+            "posted": "20 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": ".",
+            "posted": "19 months ago",
+            "review": "\"Best detox for Liver\"",
+            "score": 4
+        },
+        {
+            "customerName": "Reyaz Ahmed",
+            "posted": "18 months ago",
+            "review": "\"Very good for lever\"",
+            "score": 5
+        },
+        {
+            "customerName": "Deepak",
+            "posted": "18 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Nikhil Tyagi",
+            "posted": "18 months ago",
+            "review": "\"Genuine product. Timely delivered.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dhdbbv Hfjh",
+            "posted": "18 months ago",
+            "review": "\"\u09b8\"",
+            "score": 5
+        },
+        {
+            "customerName": "A.k.",
+            "posted": "17 months ago",
+            "review": "\"I am happy.\"",
+            "score": 4
+        },
+        {
+            "customerName": "Prabin Borah",
+            "posted": "17 months ago",
+            "review": "\"great\ud83d\udd25\ud83d\udd25\ud83d\udd25\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sandhya Sangai",
+            "posted": "12 months ago",
+            "review": "\"Awsome\"",
+            "score": 5
+        },
+        {
+            "customerName": "KRISHNENDU MUKHOPADHYAY",
+            "posted": "12 months ago",
+            "review": "\"It is helping me in Digestion\"",
+            "score": 5
+        },
+        {
+            "customerName": "New",
+            "posted": "12 months ago",
+            "review": "\"Good service\"",
+            "score": 4
+        },
+        {
+            "customerName": "Sunil Kumar",
+            "posted": "12 months ago",
+            "review": "\"Product delivered at a correct time ,thanks pharmeasy\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mahesh",
+            "posted": "13 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Sunil Sunil",
+            "posted": "12 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Manish Kumar Singh Singh",
+            "posted": "11 months ago",
+            "review": "\"Manish\"",
+            "score": 4
+        },
+        {
+            "customerName": "Mithilesh Kumari",
+            "posted": "9 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "RAJIV Khanna",
+            "posted": "8 months ago",
+            "review": "\"Great product and price\"",
+            "score": 5
+        },
+        {
+            "customerName": "Siromani",
+            "posted": "9 months ago",
+            "review": "\"Very good itom from liver\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rahul Chaudhary",
+            "posted": "8 months ago",
+            "review": "\"ITS WORKING\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "8 months ago",
+            "review": "\"This is a fraud\"",
+            "score": 1
+        },
+        {
+            "customerName": "Chirag",
+            "posted": "7 months ago",
+            "review": "\"the product looks good, but It's Costly plastic bottles are Not necessary \\nPlease Reduce Himalyan Pharmacy's Prices thankYou.\"",
+            "score": 5
+        },
+        {
+            "customerName": "\u091c\u092f\u0936\u0902\u0915\u0930 \u0936\u0930\u094d\u092e\u093e",
+            "posted": "8 months ago",
+            "review": "\"\u091c\u092c\u0930\u0926\u0938\u094d\u0924\"",
+            "score": 5
+        },
+        {
+            "customerName": "Prakash",
+            "posted": "6 months ago",
+            "review": "\"All  right\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sanjay Kumar",
+            "posted": "5 months ago",
+            "review": "\"Best for liver..\"",
+            "score": 5
+        },
+        {
+            "customerName": "YASHASVI",
+            "posted": "4 months ago",
+            "review": "\"You won't improve so no use\"",
+            "score": 1
+        },
+        {
+            "customerName": "Mahesh Prabhakar Apte",
+            "posted": "3 months ago",
+            "review": "\"Good service\"",
+            "score": 5
+        },
+        {
+            "customerName": "NARENDRA",
+            "posted": "5 months ago",
+            "review": "\"Product is good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dr.arunima",
+            "posted": "3 months ago",
+            "review": "\"Live 52ds\"",
+            "score": 5
+        },
+        {
+            "customerName": "Lourdina Noronha",
+            "posted": "3 months ago",
+            "review": "\"Ok\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ruchi Kumari",
+            "posted": "2 months ago",
+            "review": "\"Product is good\"",
+            "score": 5
+        },
+        {
+            "customerName": "R. Hemaprabha",
+            "posted": "1 months ago",
+            "review": "\"I like it very much because it keeps my liver healthy\ud83d\udcaa\"",
+            "score": 5
+        },
+        {
+            "customerName": "C",
+            "posted": "2 weeks ago",
+            "review": "\"You assured 22! &75ripees walet money \\nBut you gave only 12 persentase.\"",
+            "score": 1
+        },
+        {
+            "customerName": "Rolf Gomeze",
+            "posted": "30 months ago",
+            "review": "\"Service.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Jaydip Bhattacharjee",
+            "posted": "30 months ago",
+            "review": "\"Nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Anant Dubey",
+            "posted": "33 months ago",
+            "review": "Original at good price",
+            "score": 5
+        },
+        {
+            "customerName": "Pradip Jha",
+            "posted": "29 months ago",
+            "review": "\"Very Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mahesh Kumar",
+            "posted": "29 months ago",
+            "review": "\"Good medicine\"",
+            "score": 5
+        },
+        {
+            "customerName": "Parinita Verma",
+            "posted": "29 months ago",
+            "review": "\"I like nice\"",
+            "score": 4
+        },
+        {
+            "customerName": "Anurag Kumar",
+            "posted": "28 months ago",
+            "review": "\"I love pharmeasy because of genuine price\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dibyendu Kishore Roy",
+            "posted": "27 months ago",
+            "review": "\"Always ahead\"",
+            "score": 5
+        },
+        {
+            "customerName": "Tapas Basak",
+            "posted": "27 months ago",
+            "review": "\"Good ,effective\"",
+            "score": 5
+        },
+        {
+            "customerName": "Itu Chatterjee",
+            "posted": "27 months ago",
+            "review": "\"Very good product for use\"",
+            "score": 5
+        },
+        {
+            "customerName": "Laxmidhar",
+            "posted": "26 months ago",
+            "review": "\"Always best\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ajay Bhurat",
+            "posted": "26 months ago",
+            "review": "\"An apparent benefit is that it Induces good appetite besides other benefits to liver.\"",
+            "score": 4
+        },
+        {
+            "customerName": "M S Murthy",
+            "posted": "26 months ago",
+            "review": "\"The inner seal was had leaks due to which there was moisture in the box and the medicines were damaged.\"",
+            "score": 1
+        },
+        {
+            "customerName": "Eknath Fal Dessai",
+            "posted": "27 months ago",
+            "review": "\"Damaged item given\"",
+            "score": 1
+        },
+        {
+            "customerName": "Ankita Verma",
+            "posted": "25 months ago",
+            "review": "\"Nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Abhilash Gochhayat",
+            "posted": "25 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Bhabatosh Debnath",
+            "posted": "25 months ago",
+            "review": "\"Good product\"",
+            "score": 4
+        },
+        {
+            "customerName": "Pratibha Singh",
+            "posted": "24 months ago",
+            "review": "\"I like the liv 52 Ds ,it promotes liver health..\"",
+            "score": 5
+        },
+        {
+            "customerName": "P J G GUPTA",
+            "posted": "24 months ago",
+            "review": "\"whole transaction friendly\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mayankshrivastava",
+            "posted": "24 months ago",
+            "review": "\"It's a very good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Surendra Singh Lambaj",
+            "posted": "24 months ago",
+            "review": "\"Unexpected fast Delivery THANKS\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sarvesh kumar",
+            "posted": "24 months ago",
+            "review": "\"Good\"",
+            "score": 3
+        },
+        {
+            "customerName": "Md Azheruddin Sahab",
+            "posted": "24 months ago",
+            "review": "\"Best in market\"",
+            "score": 5
+        },
+        {
+            "customerName": "Krupesh Gajula",
+            "posted": "24 months ago",
+            "review": "\"Good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Subash Dwal",
+            "posted": "24 months ago",
+            "review": "\"Nat compilet onlli 5 des\"",
+            "score": 5
+        },
+        {
+            "customerName": "Suresh Gangwar",
+            "posted": "24 months ago",
+            "review": "\"Good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kanika Anand",
+            "posted": "23 months ago",
+            "review": "\"Product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Manju Pande",
+            "posted": "23 months ago",
+            "review": "\"Satisfied purchasing from pharmeasy\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "23 months ago",
+            "review": "\"As usual, product is o.k.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Tapas Kumar Pradhan",
+            "posted": "23 months ago",
+            "review": "\"thank\"",
+            "score": 4
+        },
+        {
+            "customerName": "Surendra Mohan Jaitly",
+            "posted": "23 months ago",
+            "review": "\"Effective in its use value\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ramasubramanian T",
+            "posted": "23 months ago",
+            "review": "\"Liv52ds is very good for liver health. I can feel the difference after started taking it.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Akram Hussain",
+            "posted": "23 months ago",
+            "review": "\"Good product...\"",
+            "score": 5
+        },
+        {
+            "customerName": "Arun Kr. Bhagat",
+            "posted": "23 months ago",
+            "review": "\"Slow but steady result\"",
+            "score": 4
+        },
+        {
+            "customerName": "Rameshwar Pandit Ji",
+            "posted": "23 months ago",
+            "review": "\"Always good result\"",
+            "score": 5
+        },
+        {
+            "customerName": "Neeraj Chaturvedi",
+            "posted": "21 months ago",
+            "review": "\"The best medicine for Liver\"",
+            "score": 5
+        },
+        {
+            "customerName": "VIJAY PRATAP SINGH",
+            "posted": "21 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sonu Kumar",
+            "posted": "21 months ago",
+            "review": "\"Nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Manit Sharma",
+            "posted": "21 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Anurag Srivastava",
+            "posted": "21 months ago",
+            "review": "\"Good product\"",
+            "score": 4
+        },
+        {
+            "customerName": "Santosh Gupta",
+            "posted": "21 months ago",
+            "review": "\"Theek hai\"",
+            "score": 1
+        },
+        {
+            "customerName": "Karunakant",
+            "posted": "20 months ago",
+            "review": "\"Vgood\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sunima Dash",
+            "posted": "20 months ago",
+            "review": "\"Fufzrzugj n street o6dyf gd\"",
+            "score": 4
+        },
+        {
+            "customerName": "Mahendra Gharu",
+            "posted": "20 months ago",
+            "review": "\"Iike\"",
+            "score": 5
+        },
+        {
+            "customerName": "Prashant Kumar",
+            "posted": "20 months ago",
+            "review": "\"Nice products\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rajeev Kumar",
+            "posted": "20 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Bosco Luis",
+            "posted": "20 months ago",
+            "review": "\"It's a great product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kallol Chatterjee",
+            "posted": "19 months ago",
+            "review": "\"Secured Friend\"",
+            "score": 5
+        },
+        {
+            "customerName": "Vishal Singh",
+            "posted": "20 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Prakash Kamath",
+            "posted": "19 months ago",
+            "review": "\"GREAT\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dattatray Shelar",
+            "posted": "20 months ago",
+            "review": "\"Very good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Narendra Parmar",
+            "posted": "19 months ago",
+            "review": "\"Discount and delivery\"",
+            "score": 5
+        },
+        {
+            "customerName": "Viswanathan Sekar",
+            "posted": "23 months ago",
+            "review": "\"Thanks \ud83d\udd49\ufe0f\"",
+            "score": 5
+        },
+        {
+            "customerName": "Satyanarayan",
+            "posted": "22 months ago",
+            "review": "\"Best\"",
+            "score": 4
+        },
+        {
+            "customerName": "Kshitish Das",
+            "posted": "22 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Subhash Kumar",
+            "posted": "22 months ago",
+            "review": "\"Good product \ud83d\udc4d\"",
+            "score": 5
+        },
+        {
+            "customerName": "C K Chandna",
+            "posted": "22 months ago",
+            "review": "\"I have using Liv52 tabs for the last four years and it's use is found to be effective in digestive problems.\"",
+            "score": 4
+        },
+        {
+            "customerName": "Ashraf Hussain Lone",
+            "posted": "22 months ago",
+            "review": "\"Liked butI want concession on your products\"",
+            "score": 4
+        },
+        {
+            "customerName": "Ross Sheikh",
+            "posted": "22 months ago",
+            "review": "\"Nice for liver problems\"",
+            "score": 5
+        },
+        {
+            "customerName": "Abhijit Paul",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ashokchobhyal",
+            "posted": "22 months ago",
+            "review": "\"So good\"",
+            "score": 4
+        },
+        {
+            "customerName": "DeepakKumra Kumra",
+            "posted": "22 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Supratim Paul",
+            "posted": "22 months ago",
+            "review": "\"Very effective product.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Nilanjana Dasgupta",
+            "posted": "22 months ago",
+            "review": "\"Product is very good.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Daya Nand",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dr Vikash Kumar",
+            "posted": "22 months ago",
+            "review": "\"Like\"",
+            "score": 4
+        },
+        {
+            "customerName": "Aparajita",
+            "posted": "22 months ago",
+            "review": "\"Nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Navin Kumar Singh",
+            "posted": "22 months ago",
+            "review": "\"Excellent product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ganesh Jadhav",
+            "posted": "22 months ago",
+            "review": "\"Original product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Johnson. T",
+            "posted": "22 months ago",
+            "review": "\"Very good price compare to shops...\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mrityunjoy Bhattacharyya",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ajoy Devnath",
+            "posted": "22 months ago",
+            "review": "\"Like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sujitkumar Dutta",
+            "posted": "22 months ago",
+            "review": "\"Like the product\"",
+            "score": 4
+        },
+        {
+            "customerName": "Birju Kumar",
+            "posted": "22 months ago",
+            "review": "\"Very nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Asish Chakrabarti",
+            "posted": "19 months ago",
+            "review": "\"I am taking this product for quite long time and found this quite helpful for me.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Deepak Kumar",
+            "posted": "19 months ago",
+            "review": "\"Average medicine\"",
+            "score": 3
+        },
+        {
+            "customerName": "DEBIPRASAD",
+            "posted": "19 months ago",
+            "review": "\"Very good medicine\"",
+            "score": 5
+        },
+        {
+            "customerName": "Surendra Singh Lambaj",
+            "posted": "18 months ago",
+            "review": "\"Low rates n fast Delivery\"",
+            "score": 5
+        },
+        {
+            "customerName": "Bachcha Tiwary",
+            "posted": "18 months ago",
+            "review": "\"Nice .Good service.Thanks\"",
+            "score": 5
+        },
+        {
+            "customerName": "Goutam Basu",
+            "posted": "18 months ago",
+            "review": "\"Nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rajesh Saikh",
+            "posted": "16 months ago",
+            "review": "\"Excellent medicine\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "15 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "yash beria",
+            "posted": "15 months ago",
+            "review": "\"try to deliver in cardboard box\"",
+            "score": 5
+        },
+        {
+            "customerName": "yash beria",
+            "posted": "15 months ago",
+            "review": "\"good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mohammad imtiyaz",
+            "posted": "15 months ago",
+            "review": "\"All medicine receive proper package and timly\"",
+            "score": 5
+        },
+        {
+            "customerName": "RAJESH V",
+            "posted": "15 months ago",
+            "review": "\"Heped to reduce bilurubin level\"",
+            "score": 5
+        },
+        {
+            "customerName": "Pradanta Kumar Patel",
+            "posted": "15 months ago",
+            "review": "\"excellent product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Jayesh Kerkar",
+            "posted": "14 months ago",
+            "review": "\"Na\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kishor Das",
+            "posted": "14 months ago",
+            "review": "\"\ud83d\udc4d\"",
+            "score": 5
+        },
+        {
+            "customerName": "Pankaj Kumar",
+            "posted": "14 months ago",
+            "review": "\"Very good medicine. I love to use regularly and recommend others also.\"",
+            "score": 3
+        },
+        {
+            "customerName": "Md Hussain",
+            "posted": "14 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Nazrul Islam",
+            "posted": "14 months ago",
+            "review": "\"like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Baji  contractor",
+            "posted": "14 months ago",
+            "review": "\"Great\"",
+            "score": 5
+        },
+        {
+            "customerName": "Shrivastava",
+            "posted": "14 months ago",
+            "review": "\"Risults are satisfied\"",
+            "score": 4
+        },
+        {
+            "customerName": "Suman Deb",
+            "posted": "13 months ago",
+            "review": "\"Good medicine I satisfy\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mohinder Kumar",
+            "posted": "13 months ago",
+            "review": "\"Good job\"",
+            "score": 5
+        },
+        {
+            "customerName": "Brij Mohan Pathak",
+            "posted": "13 months ago",
+            "review": "\"Old n realiable.\"",
+            "score": 4
+        },
+        {
+            "customerName": "Balvinder Singh",
+            "posted": "16 months ago",
+            "review": "\"Very good very nice thanks pharmEasy\"",
+            "score": 5
+        },
+        {
+            "customerName": "Virendra Awasthi",
+            "posted": "17 months ago",
+            "review": "\"Find all items in good condition and very early.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Vijay-kumar-bawa",
+            "posted": "18 months ago",
+            "review": "\"Support poor liver functions\"",
+            "score": 4
+        },
+        {
+            "customerName": "Kailash Raj Singh",
+            "posted": "18 months ago",
+            "review": "\"I like this product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Surinder Gupta",
+            "posted": "18 months ago",
+            "review": "\"I prefer Liv 52 plain but since it's non-availability, am having DS\"",
+            "score": 4
+        },
+        {
+            "customerName": "Chandrakant Desai",
+            "posted": "18 months ago",
+            "review": "\"Like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ruchi Kumari",
+            "posted": "17 months ago",
+            "review": "\"It improves the  problem\"",
+            "score": 4
+        },
+        {
+            "customerName": "Carmeline Surve",
+            "posted": "13 months ago",
+            "review": "\"Reasonable\"",
+            "score": 5
+        },
+        {
+            "customerName": "Unnikrishnan Nair P .k",
+            "posted": "13 months ago",
+            "review": "\"I regularly use this product. Nothing special to mention.\"",
+            "score": 4
+        },
+        {
+            "customerName": "Shekhar",
+            "posted": "13 months ago",
+            "review": "\"Hhejehdrjkerjdbdbdh\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ajay Singh Tomer",
+            "posted": "13 months ago",
+            "review": "\"Its effectiveness\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "11 months ago",
+            "review": "\"Tobemustimpoveyoursformulathis.\"",
+            "score": 3
+        },
+        {
+            "customerName": "Rajesh Kaul",
+            "posted": "12 months ago",
+            "review": "\"No result\"",
+            "score": 1
+        },
+        {
+            "customerName": "Gopesh Bhagabati",
+            "posted": "12 months ago",
+            "review": "\"It has given me support for movement of bowels and little increase in appetite.\"",
+            "score": 4
+        },
+        {
+            "customerName": "Dharmendra Chauhan",
+            "posted": "12 months ago",
+            "review": "\"5star\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "11 months ago",
+            "review": "\"Everything\"",
+            "score": 5
+        },
+        {
+            "customerName": "Prof Samir Sarkar",
+            "posted": "8 months ago",
+            "review": "\"Very much effective\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rakesh Kumar Verma",
+            "posted": "8 months ago",
+            "review": "\"Satisfactory\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kumar Srinivasan",
+            "posted": "8 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Q",
+            "posted": "8 months ago",
+            "review": "\"Good medicine\"",
+            "score": 4
+        },
+        {
+            "customerName": "Charanjit Sethi",
+            "posted": "7 months ago",
+            "review": "\"It is good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Anirban Bhaumik",
+            "posted": "7 months ago",
+            "review": "\"Is effective in hepatitis treatment. Brings Bilirubin level down.\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "7 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "P",
+            "posted": "6 months ago",
+            "review": "\"Good \ud83d\udc4d\ud83d\ude0a\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mahesh Prabhakar Apte",
+            "posted": "6 months ago",
+            "review": "\"Himalaya pharma is a very old company.Some of it's products are unique.Liv -52 is one of it.\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "5 months ago",
+            "review": "\"MRP\"",
+            "score": 5
+        },
+        {
+            "customerName": "Pankaj",
+            "posted": "1 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Baji  contractor",
+            "posted": "4 weeks ago",
+            "review": "\"Effective\"",
+            "score": 5
+        },
+        {
+            "customerName": "P K Bat",
+            "posted": "30 months ago",
+            "review": "\"I don't like the way you put the stickers for scanning. Please consider putting scanning stickers on the other side so tablets/capsules  can be easily  popped out.\"",
+            "score": 3
+        },
+        {
+            "customerName": "Narendra Shantilal Shah ",
+            "posted": "32 months ago",
+            "review": "\"No discount provided\"",
+            "score": 4
+        },
+        {
+            "customerName": "Dr Poonam",
+            "posted": "29 months ago",
+            "review": "\"V good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rajeev Saxena",
+            "posted": "29 months ago",
+            "review": "\"A supportive Ayurvedic preparation for balanced liver functions and Appetite.\"",
+            "score": 4
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "29 months ago",
+            "review": "\"Good product ; with best discount and offers...pharmeasy is best site\"",
+            "score": 4
+        },
+        {
+            "customerName": "Noorie Khatoon",
+            "posted": "28 months ago",
+            "review": "\"Best ever\"",
+            "score": 5
+        },
+        {
+            "customerName": "Towsif",
+            "posted": "28 months ago",
+            "review": "\"Its usefulness is well known for li er patient\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "27 months ago",
+            "review": "\"Great product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Indresh Kumar Mishra",
+            "posted": "26 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Pratik Bhatnagar",
+            "posted": "26 months ago",
+            "review": "\"Nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rajinder Bawa",
+            "posted": "26 months ago",
+            "review": "\"Effective in protecting liver functions\"",
+            "score": 5
+        },
+        {
+            "customerName": "Raosaheb Patil",
+            "posted": "26 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kamlesh Kapadne",
+            "posted": "25 months ago",
+            "review": "\"Effective\"",
+            "score": 4
+        },
+        {
+            "customerName": "Raman Kumar",
+            "posted": "25 months ago",
+            "review": "\"Like\"",
+            "score": 4
+        },
+        {
+            "customerName": "Abhinaba Sarkar",
+            "posted": "23 months ago",
+            "review": "\"Eco friendly\"",
+            "score": 5
+        },
+        {
+            "customerName": "Jai Prakash Jaiswal",
+            "posted": "23 months ago",
+            "review": "\"Product meets it quality.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Technical Arup",
+            "posted": "23 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ramesh Chandra Mishra",
+            "posted": "23 months ago",
+            "review": "\"Good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ujwal Sadashiv Dandekar",
+            "posted": "23 months ago",
+            "review": "\"Excellent\"",
+            "score": 4
+        },
+        {
+            "customerName": "V Srinivasan",
+            "posted": "23 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "InderBhushan Tiwari",
+            "posted": "23 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Unkamma",
+            "posted": "23 months ago",
+            "review": "\"Delivery is fast prodect also good fast delivery\"",
+            "score": 4
+        },
+        {
+            "customerName": "Himanshu Singh",
+            "posted": "23 months ago",
+            "review": "\"Good Service, on time delivery. But one major issue you don't have enough stock of all items. At times it shows in number of medicines & other items \\\"out of stock\\\" you must work over ur stock maintenance.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Amit Kumar Singha",
+            "posted": "22 months ago",
+            "review": "\"Not genuine\"",
+            "score": 1
+        },
+        {
+            "customerName": "BIMLA DEVI",
+            "posted": "22 months ago",
+            "review": "\"On time delivery..Thanks\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ravi Goswami",
+            "posted": "22 months ago",
+            "review": "\"Nice product\"",
+            "score": 3
+        },
+        {
+            "customerName": "NaniGopal Das",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "PARVATIBEN",
+            "posted": "22 months ago",
+            "review": "\"Nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Murari Yadav",
+            "posted": "22 months ago",
+            "review": "\"Awesome\"",
+            "score": 5
+        },
+        {
+            "customerName": "RAJENDER  KUMAR",
+            "posted": "22 months ago",
+            "review": "\"Good for liver ailments\"",
+            "score": 4
+        },
+        {
+            "customerName": "Pankaj Chaurasia",
+            "posted": "22 months ago",
+            "review": "\"Good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Md Kashif",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Narendra Parmar",
+            "posted": "22 months ago",
+            "review": "\"Because prompt delivered and best discount\"",
+            "score": 5
+        },
+        {
+            "customerName": "Bhim Chandra Dutta",
+            "posted": "22 months ago",
+            "review": "\"Darun\"",
+            "score": 5
+        },
+        {
+            "customerName": "Shaqaib Khan",
+            "posted": "22 months ago",
+            "review": "\"Nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sachin Mallah",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "NARASINGHA mishra",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "25 months ago",
+            "review": "\"Very good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Chandrakant Desai",
+            "posted": "25 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "25 months ago",
+            "review": "\"wanted Liv 52 but was delivered Liv 52 DS\"",
+            "score": 3
+        },
+        {
+            "customerName": "Satish Malhotra",
+            "posted": "24 months ago",
+            "review": "\"Too expensive\"",
+            "score": 3
+        },
+        {
+            "customerName": "Piush Kumar Alok",
+            "posted": "24 months ago",
+            "review": "\"It was good\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "25 months ago",
+            "review": "\"Very good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Karan Bajaj",
+            "posted": "25 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "V Thiruvengadam",
+            "posted": "25 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Akhil Jayadeep",
+            "posted": "24 months ago",
+            "review": "\"In my order i have not received zandu nithyam 30 tablets bottle. Instead you sent me a strip of tablets. This so disgusting I have already returned the order for sending a wrong product. And yet again second time also you guys sent me a wrong product.\"",
+            "score": 1
+        },
+        {
+            "customerName": "Suparno Chakraborty",
+            "posted": "24 months ago",
+            "review": "\"I like this product\"",
+            "score": 4
+        },
+        {
+            "customerName": "Vimal Narayan Saxena",
+            "posted": "24 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Yogendra Shukla",
+            "posted": "24 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Venkatesh",
+            "posted": "24 months ago",
+            "review": "\"Overall good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Vinod Kumar",
+            "posted": "24 months ago",
+            "review": "\"Liv 52 from Himalaya is a very effective drug for liver function ,improves digestion\"",
+            "score": 5
+        },
+        {
+            "customerName": "Suranjan Mishra",
+            "posted": "24 months ago",
+            "review": "\"I am a regular user\"",
+            "score": 5
+        },
+        {
+            "customerName": "Zainab",
+            "posted": "24 months ago",
+            "review": "\"Very good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Supravat Biswas",
+            "posted": "24 months ago",
+            "review": "\"So good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Anuj Agarwal",
+            "posted": "24 months ago",
+            "review": "\"Best product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kapil Kumar Agarwal Mbd",
+            "posted": "23 months ago",
+            "review": "\"Good for lever recomd. By dr. Also\"",
+            "score": 4
+        },
+        {
+            "customerName": "Tufail Ahmad",
+            "posted": "23 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Archana Gupta",
+            "posted": "23 months ago",
+            "review": "\"Wanted liv52\"",
+            "score": 1
+        },
+        {
+            "customerName": "Ajeet Kumar Singh",
+            "posted": "23 months ago",
+            "review": "\"NO work properly\"",
+            "score": 2
+        },
+        {
+            "customerName": "Jimmysukahia",
+            "posted": "22 months ago",
+            "review": "\"Very good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Shruti Samarth",
+            "posted": "22 months ago",
+            "review": "\"Good for liver\"",
+            "score": 5
+        },
+        {
+            "customerName": "Akshay Kumar Sharma",
+            "posted": "22 months ago",
+            "review": "\"Nice product\"",
+            "score": 4
+        },
+        {
+            "customerName": "Pravin Kumar",
+            "posted": "22 months ago",
+            "review": "\"I have a good result from it\"",
+            "score": 5
+        },
+        {
+            "customerName": "Shrayash Gangil",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Jeevan Mishra",
+            "posted": "21 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mayank Khetan",
+            "posted": "21 months ago",
+            "review": "\"More discount.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Prasad",
+            "posted": "21 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Vc",
+            "posted": "21 months ago",
+            "review": "\"Best service...on time delivery\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sanjay",
+            "posted": "21 months ago",
+            "review": "\"Na\"",
+            "score": 5
+        },
+        {
+            "customerName": "Riajul Hoque",
+            "posted": "21 months ago",
+            "review": "\"Good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Vikash Kumar",
+            "posted": "21 months ago",
+            "review": "\"Best\"",
+            "score": 5
+        },
+        {
+            "customerName": "Anil Manchanda",
+            "posted": "14 months ago",
+            "review": "\"Good service\"",
+            "score": 5
+        },
+        {
+            "customerName": "Neeraj Bhati",
+            "posted": "19 months ago",
+            "review": "\"Nice product\"",
+            "score": 4
+        },
+        {
+            "customerName": "Amit Sankar Sinha Roy",
+            "posted": "18 months ago",
+            "review": "\"The product is really good.\"",
+            "score": 4
+        },
+        {
+            "customerName": "Dipak Talukdar",
+            "posted": "18 months ago",
+            "review": "\"Good service\"",
+            "score": 4
+        },
+        {
+            "customerName": "Bacha Borah",
+            "posted": "18 months ago",
+            "review": "\"To keep my liver in order, I am using LIV 52 DS tablet as maintain dose.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dipankar Kalita",
+            "posted": "21 months ago",
+            "review": "\"Very Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dr D N Mishra",
+            "posted": "20 months ago",
+            "review": "\"Needs improvement\"",
+            "score": 4
+        },
+        {
+            "customerName": "INDER INDER",
+            "posted": "20 months ago",
+            "review": "\"Ok\"",
+            "score": 4
+        },
+        {
+            "customerName": "Ravindra Kumar",
+            "posted": "18 months ago",
+            "review": "\"Fantastic\"",
+            "score": 5
+        },
+        {
+            "customerName": "Tausef Ahmed",
+            "posted": "14 months ago",
+            "review": "\"Gud for liver..\"",
+            "score": 5
+        },
+        {
+            "customerName": "Lalit Mohan Mishra",
+            "posted": "14 months ago",
+            "review": "\"O.k\"",
+            "score": 4
+        },
+        {
+            "customerName": "Ankit Kumar",
+            "posted": "14 months ago",
+            "review": "\"Good product work it\"",
+            "score": 4
+        },
+        {
+            "customerName": "Prem Poddar",
+            "posted": "20 months ago",
+            "review": "\"Helpful\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mohan Kumar Karan",
+            "posted": "20 months ago",
+            "review": "\"Very effective\"",
+            "score": 5
+        },
+        {
+            "customerName": "Om Prakash Suman",
+            "posted": "20 months ago",
+            "review": "\"Good product is very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Subhash Chander",
+            "posted": "21 months ago",
+            "review": "\"Very good experience\"",
+            "score": 5
+        },
+        {
+            "customerName": "Gurjeet Singh",
+            "posted": "21 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Panchu Sharma",
+            "posted": "20 months ago",
+            "review": "\"4\"",
+            "score": 4
+        },
+        {
+            "customerName": "Ronald Carrasco",
+            "posted": "19 months ago",
+            "review": "\"No complaints\"",
+            "score": 5
+        },
+        {
+            "customerName": "Umesh",
+            "posted": "21 months ago",
+            "review": "\"Very good product for liver\"",
+            "score": 5
+        },
+        {
+            "customerName": "Gautam Pandey",
+            "posted": "20 months ago",
+            "review": "\"very usefull\"",
+            "score": 5
+        },
+        {
+            "customerName": "Anup Rabidas",
+            "posted": "19 months ago",
+            "review": "\"Lick\"",
+            "score": 5
+        },
+        {
+            "customerName": "Piyush Gupta",
+            "posted": "19 months ago",
+            "review": "\"Nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ajay Nair",
+            "posted": "19 months ago",
+            "review": "\"Excellent product \ud83d\udc4d\"",
+            "score": 5
+        },
+        {
+            "customerName": "Philip Michael",
+            "posted": "19 months ago",
+            "review": "\"Like this product\"",
+            "score": 4
+        },
+        {
+            "customerName": "Rajiv Kumar Sharma",
+            "posted": "18 months ago",
+            "review": "\"Helps in increasing the appetite  .\"",
+            "score": 5
+        },
+        {
+            "customerName": "Feba",
+            "posted": "12 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dipika Pathak",
+            "posted": "13 months ago",
+            "review": "\"Like\"",
+            "score": 4
+        },
+        {
+            "customerName": "Anand Datta",
+            "posted": "12 months ago",
+            "review": "\"Live fit, enjoy live52\"",
+            "score": 5
+        },
+        {
+            "customerName": "Pradeep Kumar B M",
+            "posted": "12 months ago",
+            "review": "\"Liv 52ds rozavel piriton amlog and dolo\"",
+            "score": 5
+        },
+        {
+            "customerName": "Guru Talukdar",
+            "posted": "11 months ago",
+            "review": "\"Dislike\"",
+            "score": 1
+        },
+        {
+            "customerName": "Balram Mehta",
+            "posted": "17 months ago",
+            "review": "\"like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ranjeet Kumar",
+            "posted": "18 months ago",
+            "review": "\"Like\"",
+            "score": 5
+        },
+        {
+            "customerName": "B Simachalam",
+            "posted": "15 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Anand",
+            "posted": "13 months ago",
+            "review": "\"Good for liver\"",
+            "score": 5
+        },
+        {
+            "customerName": "T",
+            "posted": "13 months ago",
+            "review": "\"Like it\"",
+            "score": 3
+        },
+        {
+            "customerName": "Lalatendu Satapathy",
+            "posted": "13 months ago",
+            "review": "\"Best results achieved\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "13 months ago",
+            "review": "\"it's advised by doctor\"",
+            "score": 5
+        },
+        {
+            "customerName": "Debastian Paul.",
+            "posted": "13 months ago",
+            "review": "\"good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Musa Kamal",
+            "posted": "13 months ago",
+            "review": "\"Awesome product by Himalaya\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ankur Kamboj",
+            "posted": "13 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Shekhar Dubey",
+            "posted": "13 months ago",
+            "review": "\"Discount should be more\"",
+            "score": 4
+        },
+        {
+            "customerName": "gagan kumar",
+            "posted": "11 months ago",
+            "review": "\"Very short quantity ingredients\"",
+            "score": 1
+        },
+        {
+            "customerName": "Digambar Panda",
+            "posted": "10 months ago",
+            "review": "\"Thanks\"",
+            "score": 4
+        },
+        {
+            "customerName": "Balajisenthilkumar",
+            "posted": "10 months ago",
+            "review": "\"Inner side of Bottle is full tablet colors\"",
+            "score": 1
+        },
+        {
+            "customerName": "Rajeev Sharma",
+            "posted": "9 months ago",
+            "review": "\"Although products are nice but quite limited\"",
+            "score": 5
+        },
+        {
+            "customerName": "A S Trehan",
+            "posted": "9 months ago",
+            "review": "\"Time tested product\"",
+            "score": 4
+        },
+        {
+            "customerName": "Ajit Kumar Verma",
+            "posted": "9 months ago",
+            "review": "\"A reasonable product with about 20% less , in form of regular discount and Cash Black. Product is original with a fair shelf life.\"",
+            "score": 5
+        },
+        {
+            "customerName": "SAMBHUNATH BASAK",
+            "posted": "8 months ago",
+            "review": "\"The product have not given the desired result.\"",
+            "score": 3
+        },
+        {
+            "customerName": "Elladas Tumma",
+            "posted": "9 months ago",
+            "review": "\"Good\"",
+            "score": 3
+        },
+        {
+            "customerName": "Gwal Pahari",
+            "posted": "8 months ago",
+            "review": "\"It seems to be good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Sandeep Singh",
+            "posted": "7 months ago",
+            "review": "\"1st choice for healthy liver\"",
+            "score": 4
+        },
+        {
+            "customerName": "Dinesh Prasad Singh",
+            "posted": "7 months ago",
+            "review": "\"The products do not appear genuine.\"",
+            "score": 2
+        },
+        {
+            "customerName": "Dinesh Prasad Singh",
+            "posted": "7 months ago",
+            "review": "\"Each tablet doesn't bear film coated imprint for protection.\"",
+            "score": 2
+        },
+        {
+            "customerName": "Ashish Kr Gupta",
+            "posted": "7 months ago",
+            "review": "\"Goof\"",
+            "score": 4
+        },
+        {
+            "customerName": "Brij Mohan Pathak",
+            "posted": "5 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Amit Kumar Srivastava",
+            "posted": "5 months ago",
+            "review": "\"Great product at a great price...\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "6 months ago",
+            "review": "\"..\"",
+            "score": 5
+        },
+        {
+            "customerName": "Aasas",
+            "posted": "6 months ago",
+            "review": "\"Vera very nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Shesh Nath Singh",
+            "posted": "5 months ago",
+            "review": "\"Like product.good product .satisfactery\"",
+            "score": 5
+        },
+        {
+            "customerName": "Uma Nagraj",
+            "posted": "1 months ago",
+            "review": "\"Good product. But steadily  increasing the prices.\"",
+            "score": 4
+        },
+        {
+            "customerName": "Arunabha Roy",
+            "posted": "31 months ago",
+            "review": "\"Pack of 100 tabs is more economical\"",
+            "score": 4
+        },
+        {
+            "customerName": "Ashwini",
+            "posted": "31 months ago",
+            "review": "\"Effective\"",
+            "score": 5
+        },
+        {
+            "customerName": "Umesh Ishwar",
+            "posted": "30 months ago",
+            "review": "\"I like this product.\"",
+            "score": 4
+        },
+        {
+            "customerName": "sobha gupta",
+            "posted": "30 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Lovesh Kumar Parmar",
+            "posted": "29 months ago",
+            "review": "\"I love your service\"",
+            "score": 5
+        },
+        {
+            "customerName": "Lovesh Kumar Parmar",
+            "posted": "29 months ago",
+            "review": "\"Excellent service\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ismail Shaikh",
+            "posted": "28 months ago",
+            "review": "\"Best\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mriganka Kumar Das",
+            "posted": "28 months ago",
+            "review": "\"Product is very good.I take it 35 years\"",
+            "score": 5
+        },
+        {
+            "customerName": "Towsif",
+            "posted": "28 months ago",
+            "review": "\"Have a nice day good luck\"",
+            "score": 5
+        },
+        {
+            "customerName": "Anudeep Mullick",
+            "posted": "28 months ago",
+            "review": "\"It is a good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kallol Chatterjee",
+            "posted": "27 months ago",
+            "review": "\"Very helpful\"",
+            "score": 5
+        },
+        {
+            "customerName": "Shamik Ghosh",
+            "posted": "27 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rajesh Singh",
+            "posted": "27 months ago",
+            "review": "\"Tablet is very good for health\"",
+            "score": 4
+        },
+        {
+            "customerName": "Vikas Sharma",
+            "posted": "26 months ago",
+            "review": "\"Like\"",
+            "score": 4
+        },
+        {
+            "customerName": "Sandhya",
+            "posted": "26 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "V. Sridharan",
+            "posted": "26 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Nandalal Roy",
+            "posted": "22 months ago",
+            "review": "\"Genuine medicine and quick delivery\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dharmaraj",
+            "posted": "21 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "SANJEEV",
+            "posted": "21 months ago",
+            "review": "\"Best product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mustafa Ahmed",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Dipak Kumar Mazumdar",
+            "posted": "22 months ago",
+            "review": "\"This is a useful product.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Aja Tanti",
+            "posted": "22 months ago",
+            "review": "\"It's all over good.\"",
+            "score": 4
+        },
+        {
+            "customerName": "V Srinivasan",
+            "posted": "21 months ago",
+            "review": "\"Worth\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mohit Kumar",
+            "posted": "21 months ago",
+            "review": "\"Good product\"",
+            "score": 4
+        },
+        {
+            "customerName": "Abhikansh Pratap Singh",
+            "posted": "21 months ago",
+            "review": "\"\ud83d\udc4c\ud83d\udc4c\"",
+            "score": 5
+        },
+        {
+            "customerName": ".",
+            "posted": "21 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Arun kumar Sirohi",
+            "posted": "21 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Shaikh Samid",
+            "posted": "21 months ago",
+            "review": "\"I like it.Good work \ud83d\udc4d\"",
+            "score": 5
+        },
+        {
+            "customerName": "Subodh Mandal",
+            "posted": "21 months ago",
+            "review": "\"God\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kusum Tripathi",
+            "posted": "21 months ago",
+            "review": "\"Good product under this price range\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mukesh Kumar",
+            "posted": "21 months ago",
+            "review": "\"Amazing deal\"",
+            "score": 5
+        },
+        {
+            "customerName": "Balwant Singh",
+            "posted": "21 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "MOHD MOUSIM KHAN",
+            "posted": "21 months ago",
+            "review": "\"Used about 20 year\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ashwani Gupta",
+            "posted": "25 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ashish Sharma",
+            "posted": "24 months ago",
+            "review": "\"Very effective\"",
+            "score": 5
+        },
+        {
+            "customerName": "Maha Singh",
+            "posted": "25 months ago",
+            "review": "\"Relief in fattylever\"",
+            "score": 5
+        },
+        {
+            "customerName": "Vinay Goel",
+            "posted": "25 months ago",
+            "review": "\"very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Anil Srivastava",
+            "posted": "25 months ago",
+            "review": "\"Satisfied and good behaviour of delivery man.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Manoj Kumar Shukla",
+            "posted": "24 months ago",
+            "review": "\"Good service\"",
+            "score": 4
+        },
+        {
+            "customerName": "Chiranjit Roy",
+            "posted": "24 months ago",
+            "review": "\"Good product. Please available\"",
+            "score": 4
+        },
+        {
+            "customerName": "Bharat Dembda",
+            "posted": "24 months ago",
+            "review": "\"\u0932\u0940\u0935\u0930 \u0915\u0947 \u0932\u093f\u090f \u0905\u091a\u094d\u091b\u0940 \u0917\u094b\u0932\u0940 \u0939\u0948\u0902\"",
+            "score": 1
+        },
+        {
+            "customerName": "Krisha Lakhiani",
+            "posted": "20 months ago",
+            "review": "\"Effective\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rabi Sankar",
+            "posted": "19 months ago",
+            "review": "\"I am happy\"",
+            "score": 5
+        },
+        {
+            "customerName": "Abdulrashid Shikalgar",
+            "posted": "20 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Syed Dustagir Hussain",
+            "posted": "19 months ago",
+            "review": "\"Nise\"",
+            "score": 3
+        },
+        {
+            "customerName": "Daya Shankar Dubey",
+            "posted": "24 months ago",
+            "review": "\"Like\"",
+            "score": 3
+        },
+        {
+            "customerName": "Manish Amlani",
+            "posted": "24 months ago",
+            "review": "\"very high price\"",
+            "score": 2
+        },
+        {
+            "customerName": "Deepak Kapoor",
+            "posted": "24 months ago",
+            "review": "\"Well-done\"",
+            "score": 5
+        },
+        {
+            "customerName": "Raghu Saran & Shalini Gupta",
+            "posted": "24 months ago",
+            "review": "\"Very effective product for immunity and well being\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ravinder Singh",
+            "posted": "24 months ago",
+            "review": "\"Beneficial for health\"",
+            "score": 5
+        },
+        {
+            "customerName": "Souvik Basu",
+            "posted": "24 months ago",
+            "review": "\"It helps to prevent getting into the 4th stage and beyond\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dilip Tiwary",
+            "posted": "24 months ago",
+            "review": "\"GOod\"",
+            "score": 4
+        },
+        {
+            "customerName": "K.k.saxena",
+            "posted": "24 months ago",
+            "review": "\"Good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Deenan Nath",
+            "posted": "24 months ago",
+            "review": "\"I\"",
+            "score": 4
+        },
+        {
+            "customerName": "Akhter Hussain",
+            "posted": "24 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "C R V",
+            "posted": "19 months ago",
+            "review": "\"Taking LIV52 as a supplement for some time. Happy to use a product with natural elements.\"",
+            "score": 4
+        },
+        {
+            "customerName": "Hashmat Alam",
+            "posted": "19 months ago",
+            "review": "\"Nice products\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dipak Sarma",
+            "posted": "23 months ago",
+            "review": "\"I liked this product\"",
+            "score": 5
+        },
+        {
+            "customerName": "iftekhar ahmad",
+            "posted": "23 months ago",
+            "review": "\"Like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Krishan Gopal  Gandhi",
+            "posted": "23 months ago",
+            "review": "\"None\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dhiraj Shrivastava",
+            "posted": "23 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Suman Malik",
+            "posted": "23 months ago",
+            "review": "\"I like fast delivery more discount\"",
+            "score": 5
+        },
+        {
+            "customerName": "Isaac Arya",
+            "posted": "23 months ago",
+            "review": "\"\u090f\u0915\u094d\u0938\u0940\u0932\u0947\u0902\u091f\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mithun Chanda",
+            "posted": "23 months ago",
+            "review": "\"Excellent \ud83d\udc4c\ud83d\udc4c\"",
+            "score": 5
+        },
+        {
+            "customerName": "Na",
+            "posted": "23 months ago",
+            "review": "\"Liv Ds 52 very good medicine i take daily\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ramesh",
+            "posted": "23 months ago",
+            "review": "\"Good for lever. I have been using since over 20 years.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kaushal Kishor Mandal",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rakesh B Srivastava",
+            "posted": "22 months ago",
+            "review": "\"Really good medicine if you take this, you are free with acidity, Gases and Heaviness.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Michael Fernandez",
+            "posted": "22 months ago",
+            "review": "\"Been taking these tablets for several months. Feeling good. Good appetite. LFT readings normal.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ravikant Ram",
+            "posted": "22 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Abhishek kumar",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Adish Jain",
+            "posted": "22 months ago",
+            "review": "\"Product is good .alredy famous & well known\"",
+            "score": 5
+        },
+        {
+            "customerName": "Suresh G",
+            "posted": "22 months ago",
+            "review": "\"I liked the product, but was unhappy that Pharmeasy didn't keep up their word and honour their 30% discount commitment\"",
+            "score": 3
+        },
+        {
+            "customerName": "Sanidul Islam",
+            "posted": "22 months ago",
+            "review": "\"Hhjj\"",
+            "score": 1
+        },
+        {
+            "customerName": "Rupak Nag",
+            "posted": "22 months ago",
+            "review": "\"Excilent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Shatrughan Kushwaha",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "PARVATIBEN",
+            "posted": "22 months ago",
+            "review": "\"Very nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "RAMNATHA N",
+            "posted": "22 months ago",
+            "review": "\"Good liver supplement\"",
+            "score": 5
+        },
+        {
+            "customerName": "Irfan",
+            "posted": "22 months ago",
+            "review": "\"Best\"",
+            "score": 5
+        },
+        {
+            "customerName": "Hasmat Ali",
+            "posted": "22 months ago",
+            "review": "\"Ok\"",
+            "score": 5
+        },
+        {
+            "customerName": "Naveen",
+            "posted": "22 months ago",
+            "review": "\"Very good product for health\"",
+            "score": 5
+        },
+        {
+            "customerName": "Hasmat Ali",
+            "posted": "22 months ago",
+            "review": "\"Ok\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "17 months ago",
+            "review": "\"Nice product \ud83d\udc4d\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rajan Kumar",
+            "posted": "16 months ago",
+            "review": "\"Everything is good... ds is twice more powerful than normal...\"",
+            "score": 5
+        },
+        {
+            "customerName": "Subhakanta Pattnaik",
+            "posted": "16 months ago",
+            "review": "\"Feeling better after using\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sushanta Paul",
+            "posted": "16 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Chaand",
+            "posted": "18 months ago",
+            "review": "\"Good\"",
+            "score": 3
+        },
+        {
+            "customerName": "PREET SINGH",
+            "posted": "18 months ago",
+            "review": "\"Osm\"",
+            "score": 5
+        },
+        {
+            "customerName": "Akash Ojha",
+            "posted": "18 months ago",
+            "review": "\"Good work \ud83d\udc4d\"",
+            "score": 5
+        },
+        {
+            "customerName": "Jagannath Bhunia",
+            "posted": "17 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sanjay Mukherjee",
+            "posted": "18 months ago",
+            "review": "\"Good packaging and value for money.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Subhash Misra",
+            "posted": "18 months ago",
+            "review": "\"good medicine for stomoch\"",
+            "score": 5
+        },
+        {
+            "customerName": "Arindom Chatterjee",
+            "posted": "14 months ago",
+            "review": "\"Good product and service\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dr Soumalya Das",
+            "posted": "14 months ago",
+            "review": "\"Very Nice product,good to keep you liver function healty and price is good also\"",
+            "score": 5
+        },
+        {
+            "customerName": "Tarun Kumar Ghosal",
+            "posted": "14 months ago",
+            "review": "\"It is very helpful\"",
+            "score": 4
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "14 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "B",
+            "posted": "14 months ago",
+            "review": "\"Excellent product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Elladas Tumma",
+            "posted": "15 months ago",
+            "review": "\"Fantastic\"",
+            "score": 5
+        },
+        {
+            "customerName": "Aseem Jain",
+            "posted": "15 months ago",
+            "review": "\"Very Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "15 months ago",
+            "review": "\"Very nice \ud83d\udc4d\"",
+            "score": 5
+        },
+        {
+            "customerName": "Arun Singh",
+            "posted": "15 months ago",
+            "review": "\"quality product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Bishnu Jha",
+            "posted": "14 months ago",
+            "review": "\"Like tha packaging.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Siromani",
+            "posted": "13 months ago",
+            "review": "\"Good price\"",
+            "score": 5
+        },
+        {
+            "customerName": "Lalit Choudhary",
+            "posted": "13 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rajneesh",
+            "posted": "13 months ago",
+            "review": "\"Good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dinesh Gohil",
+            "posted": "13 months ago",
+            "review": "\"I like product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rizwana",
+            "posted": "13 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Bawita",
+            "posted": "12 months ago",
+            "review": "\"Nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kamal Sengar",
+            "posted": "12 months ago",
+            "review": "\"Very very good quality\"",
+            "score": 5
+        },
+        {
+            "customerName": "Bidyut Naha",
+            "posted": "12 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Vikas Yadav",
+            "posted": "12 months ago",
+            "review": "\"Good for liver\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mustkim",
+            "posted": "11 months ago",
+            "review": "\"Veri best\"",
+            "score": 5
+        },
+        {
+            "customerName": "Suraj Bajpai",
+            "posted": "11 months ago",
+            "review": "\"Nice product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dinesh Gohil",
+            "posted": "12 months ago",
+            "review": "\"I like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sanjay Chakravarty",
+            "posted": "12 months ago",
+            "review": "\"Why was wrong medicine sent when asked only for Liv 52 why ds was sent\"",
+            "score": 1
+        },
+        {
+            "customerName": "Dr.sarang V Joshi",
+            "posted": "8 months ago",
+            "review": "\"its very good &trusted product from many years..used in govt.sec.also.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Nagesh Suresh Shetye",
+            "posted": "8 months ago",
+            "review": "\"Nice product and nice service\"",
+            "score": 5
+        },
+        {
+            "customerName": "Pratik Luhana",
+            "posted": "9 months ago",
+            "review": "\"Lovely and quick delivery\"",
+            "score": 4
+        },
+        {
+            "customerName": "Antony D'souza",
+            "posted": "8 months ago",
+            "review": "\"Very good  using since long time\"",
+            "score": 5
+        },
+        {
+            "customerName": "Bram I Rebello",
+            "posted": "9 months ago",
+            "review": "\"Not helpful for Kidney Stone, zero effect\"",
+            "score": 1
+        },
+        {
+            "customerName": "Vinay Agarwal",
+            "posted": "9 months ago",
+            "review": "\"Very good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Satyanarain Kansal",
+            "posted": "8 months ago",
+            "review": "\"Quick delivery service\"",
+            "score": 3
+        },
+        {
+            "customerName": "Ajay Aggarwal",
+            "posted": "8 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Khairul Islam",
+            "posted": "7 months ago",
+            "review": "\"It is good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Unnikrishnan Nair P .k",
+            "posted": "7 months ago",
+            "review": "\"Ivt\"",
+            "score": 4
+        },
+        {
+            "customerName": "Rajan Menon",
+            "posted": "7 months ago",
+            "review": "\"Ordering medicines is so easy.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Trimbak Kanagasabai",
+            "posted": "6 months ago",
+            "review": "\"Effective in providing strength to the liver.\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "5 months ago",
+            "review": "\"Nice, effective . Have been using this Liv 52 DS as helps in keeping the digestive system in order.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Anjali Pawaskar",
+            "posted": "7 months ago",
+            "review": "\"The Liv 52 tablet is spoilt. Please replace\"",
+            "score": 1
+        },
+        {
+            "customerName": "Rohan Verma",
+            "posted": "6 months ago",
+            "review": "\"Great\"",
+            "score": 5
+        },
+        {
+            "customerName": "Lovesh Kumar Parmar",
+            "posted": "5 months ago",
+            "review": "\"Excellent work for Liver\"",
+            "score": 5
+        },
+        {
+            "customerName": "L",
+            "posted": "7 months ago",
+            "review": "\"Like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Saurabh Laxman",
+            "posted": "5 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ajay Swarup",
+            "posted": "5 months ago",
+            "review": "\"One day delivery.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kaleswar Das",
+            "posted": "5 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Nitya nand",
+            "posted": "3 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "1 months ago",
+            "review": "\"Costly\"",
+            "score": 4
+        },
+        {
+            "customerName": "Ratnakar Welling",
+            "posted": "2 months ago",
+            "review": "\"Excellent product which takes care of the purpose for which it is prescribed\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "32 months ago",
+            "review": "\"Yes l like this product. It is very essantial\"",
+            "score": 4
+        },
+        {
+            "customerName": "Subhendu Patnaik",
+            "posted": "32 months ago",
+            "review": "I liked it",
+            "score": 5
+        },
+        {
+            "customerName": "Ajay Kumar Gupta",
+            "posted": "30 months ago",
+            "review": "\"Excellent product. Getting considerable relief.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Tushar Agarwal",
+            "posted": "30 months ago",
+            "review": "\"Not effective\"",
+            "score": 1
+        },
+        {
+            "customerName": "Pranatidas",
+            "posted": "30 months ago",
+            "review": "\"Liv 52 good for health.i like this product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ruby Das",
+            "posted": "30 months ago",
+            "review": "\"Same as picture, it was sealed well.\"",
+            "score": 5
+        },
+        {
+            "customerName": "\u0634\u0643\u064a\u0644 \u0634\u064a\u062e",
+            "posted": "26 months ago",
+            "review": "\"ask the Americans about Liv 52 ds\"",
+            "score": 3
+        },
+        {
+            "customerName": "Ujwal Sadashiv Dandekar",
+            "posted": "27 months ago",
+            "review": "\"Trustworthy Brand\"",
+            "score": 5
+        },
+        {
+            "customerName": "Prasun Bhowmick",
+            "posted": "27 months ago",
+            "review": "\"LIKE- PACKAGING & BEFORE TIME DELIVERY\\n\\nDISLIKE- NA\"",
+            "score": 5
+        },
+        {
+            "customerName": "Naresh Singh",
+            "posted": "26 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ravikumar",
+            "posted": "25 months ago",
+            "review": "\"Cheap and best\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sonia Rishi",
+            "posted": "25 months ago",
+            "review": "\"Awasome product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sanjoy Gupta",
+            "posted": "25 months ago",
+            "review": "\"It's a good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Samrat Shringarpure",
+            "posted": "25 months ago",
+            "review": "\"Product is very good lever support.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Manisha Sen",
+            "posted": "25 months ago",
+            "review": "\"I am feeling better after taking this\"",
+            "score": 4
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "25 months ago",
+            "review": "\"nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Abhi",
+            "posted": "25 months ago",
+            "review": "\"duplicate product\"",
+            "score": 2
+        },
+        {
+            "customerName": "Mukesh Kumar Rai",
+            "posted": "25 months ago",
+            "review": "\"Good\"",
+            "score": 1
+        },
+        {
+            "customerName": "Tanvi Sinha",
+            "posted": "25 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Mohit Sharma",
+            "posted": "25 months ago",
+            "review": "\"Nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Vijeet Shaw",
+            "posted": "25 months ago",
+            "review": "\"Good product ..already trial and tested in the past....\"",
+            "score": 5
+        },
+        {
+            "customerName": "Aparna Nidhi",
+            "posted": "25 months ago",
+            "review": "\"Useful\"",
+            "score": 5
+        },
+        {
+            "customerName": "Suresh Gaur",
+            "posted": "24 months ago",
+            "review": "\"I am using Himalaya products since long\"",
+            "score": 5
+        },
+        {
+            "customerName": "Jagdish Chander",
+            "posted": "24 months ago",
+            "review": "\"Liv 52 is very helpful for all type of blood infection\"",
+            "score": 5
+        },
+        {
+            "customerName": "R.p.shukla",
+            "posted": "29 months ago",
+            "review": "\"Good service n product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kapil Saini",
+            "posted": "27 months ago",
+            "review": "\"Useful\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kalyan Ghosh",
+            "posted": "29 months ago",
+            "review": "\"This is a very effective product yo protect the liver.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sanjay Shende",
+            "posted": "27 months ago",
+            "review": "\"It works on liver problems.\"",
+            "score": 4
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "24 months ago",
+            "review": "\"Its quick but so many products are out of stock\"",
+            "score": 3
+        },
+        {
+            "customerName": "Kriti Singh",
+            "posted": "24 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Vishnu Kumar Nepali",
+            "posted": "24 months ago",
+            "review": "\"Effective medicine.\"",
+            "score": 4
+        },
+        {
+            "customerName": "Dinesh Pratap Singh",
+            "posted": "24 months ago",
+            "review": "\"Like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mohd Laraib",
+            "posted": "24 months ago",
+            "review": "\"Like\"",
+            "score": 4
+        },
+        {
+            "customerName": "PRATIK ATUL KHANDERIA",
+            "posted": "23 months ago",
+            "review": "\"Liv52 DS manufacturing cost is very low. Himalaya must reduce its selling price.\"",
+            "score": 3
+        },
+        {
+            "customerName": "J B K ROY",
+            "posted": "23 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Firoz Ahmed",
+            "posted": "23 months ago",
+            "review": "\"Good\"",
+            "score": 4
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "23 months ago",
+            "review": "\"Superb\"",
+            "score": 5
+        },
+        {
+            "customerName": "Manoj Bijlani",
+            "posted": "23 months ago",
+            "review": "\"Excellent results for liver problems\"",
+            "score": 5
+        },
+        {
+            "customerName": "Shankari B N",
+            "posted": "23 months ago",
+            "review": "\"I'll have to wait and watch. Just in three days, how can you know the effect?. Moreover, I am taking Shelcal 500 HD, and Himalya tablet has only 250mg of Calcium, apart from other ingredients. It is too early to write a Review.\"",
+            "score": 3
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "23 months ago",
+            "review": "\"Like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Awatif",
+            "posted": "23 months ago",
+            "review": "\"Awesome\"",
+            "score": 5
+        },
+        {
+            "customerName": "Deepa Gour",
+            "posted": "22 months ago",
+            "review": "\"Good for health\"",
+            "score": 5
+        },
+        {
+            "customerName": "sonu raj raj",
+            "posted": "22 months ago",
+            "review": "\"good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Francis",
+            "posted": "22 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "alok singh",
+            "posted": "22 months ago",
+            "review": "\"Nyc\"",
+            "score": 3
+        },
+        {
+            "customerName": "Ravi Prakash",
+            "posted": "22 months ago",
+            "review": "\"Very useful product.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sekh Aamir Hussain",
+            "posted": "22 months ago",
+            "review": "\"Ok\"",
+            "score": 3
+        },
+        {
+            "customerName": "Balasubramanian Natarajan",
+            "posted": "22 months ago",
+            "review": "\"Quick delivery.\"",
+            "score": 5
+        },
+        {
+            "customerName": "abhay Kumar yadav",
+            "posted": "22 months ago",
+            "review": "\"Like it using since 11 yrs\"",
+            "score": 4
+        },
+        {
+            "customerName": "Omi Verma",
+            "posted": "22 months ago",
+            "review": "\"Ok \ud83d\udc4d\"",
+            "score": 4
+        },
+        {
+            "customerName": "Murtaza Limbdiwala",
+            "posted": "22 months ago",
+            "review": "\"It is easy and nice\"",
+            "score": 4
+        },
+        {
+            "customerName": "Pradeep Kumar",
+            "posted": "22 months ago",
+            "review": "\"Good \ud83d\udc4d\"",
+            "score": 5
+        },
+        {
+            "customerName": "Paramjit Kalra",
+            "posted": "22 months ago",
+            "review": "\"I like this product very much\"",
+            "score": 5
+        },
+        {
+            "customerName": "Joysing",
+            "posted": "23 months ago",
+            "review": "\"Nice\"",
+            "score": 4
+        },
+        {
+            "customerName": "Anuranjan Chakrabarty",
+            "posted": "23 months ago",
+            "review": "\"It has started working and my liver problems are much less than before.\"",
+            "score": 4
+        },
+        {
+            "customerName": "Sanjay Chaubey",
+            "posted": "23 months ago",
+            "review": "\"Of course like\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "22 months ago",
+            "review": "\"Liv 52 tablets r wrongly supplied. I hv ordered for zincovit tab but got this. Not a single medicine from the order I hv used yet. I will never order through your app again. thanks.\"",
+            "score": 1
+        },
+        {
+            "customerName": "Govind Omer",
+            "posted": "22 months ago",
+            "review": "\"H\"",
+            "score": 1
+        },
+        {
+            "customerName": "Umesh",
+            "posted": "21 months ago",
+            "review": "\"Good service\"",
+            "score": 4
+        },
+        {
+            "customerName": "S.seetha Prasad",
+            "posted": "20 months ago",
+            "review": "\"Regular user I am\"",
+            "score": 5
+        },
+        {
+            "customerName": "Jayanta Chakraborty",
+            "posted": "20 months ago",
+            "review": "\"I liked it and price valueable.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Shreyas Karkare",
+            "posted": "20 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "smraddhicustomer",
+            "posted": "20 months ago",
+            "review": "\"Let the result come out.\"",
+            "score": 4
+        },
+        {
+            "customerName": "Tavish",
+            "posted": "20 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Vishal kumarbaitha",
+            "posted": "18 months ago",
+            "review": "\", Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Hashmat Alam",
+            "posted": "19 months ago",
+            "review": "\"Good product for liv\"",
+            "score": 5
+        },
+        {
+            "customerName": "Anand Advani",
+            "posted": "19 months ago",
+            "review": "\"Nice product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ranjana Chaurasia",
+            "posted": "18 months ago",
+            "review": "\"Best for our liver .,.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Raj Sahu",
+            "posted": "18 months ago",
+            "review": "\"Like\"",
+            "score": 3
+        },
+        {
+            "customerName": "Baldev Bhardwaj",
+            "posted": "18 months ago",
+            "review": "\"Effective Ayurveda medicine.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Deepak",
+            "posted": "18 months ago",
+            "review": "\"All medicines are the same where ever you buy\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ashish kumar",
+            "posted": "22 months ago",
+            "review": "\"Thanks\"",
+            "score": 5
+        },
+        {
+            "customerName": "kabeer syedsaliha",
+            "posted": "22 months ago",
+            "review": "\"Its good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Saptorshi Bose",
+            "posted": "22 months ago",
+            "review": "\"Elixir of life\"",
+            "score": 5
+        },
+        {
+            "customerName": "Manoj Bijlani",
+            "posted": "22 months ago",
+            "review": "\"Best medicine for liver problems\"",
+            "score": 5
+        },
+        {
+            "customerName": "Md Hakim",
+            "posted": "22 months ago",
+            "review": "\"Tysm pharmacy thanks you\"",
+            "score": 5
+        },
+        {
+            "customerName": "Nitish Kumar",
+            "posted": "22 months ago",
+            "review": "\"Nice\"",
+            "score": 3
+        },
+        {
+            "customerName": "Kusum Tripathi",
+            "posted": "22 months ago",
+            "review": "\"Nice product under this price range\"",
+            "score": 4
+        },
+        {
+            "customerName": "Hasmat Ali",
+            "posted": "22 months ago",
+            "review": "\"Okl\"",
+            "score": 5
+        },
+        {
+            "customerName": "Izhar Beg",
+            "posted": "22 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Anthony Fernandes",
+            "posted": "22 months ago",
+            "review": "\"Discount\"",
+            "score": 4
+        },
+        {
+            "customerName": "Manish singh",
+            "posted": "22 months ago",
+            "review": "\"Very good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "MUKHLESUR RAHMAN",
+            "posted": "22 months ago",
+            "review": "\"Live 52 is very beautiful product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Vekariya Dhruvkumar",
+            "posted": "21 months ago",
+            "review": "\"Good product\"",
+            "score": 4
+        },
+        {
+            "customerName": "Kamalakar Sastry",
+            "posted": "21 months ago",
+            "review": "\"Product is good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sunny",
+            "posted": "21 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Nitul",
+            "posted": "17 months ago",
+            "review": "\"Gud\"",
+            "score": 4
+        },
+        {
+            "customerName": "Vikas Kumar Gupta",
+            "posted": "17 months ago",
+            "review": "\"It's a very effective for lever.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Karan Hirwani",
+            "posted": "19 months ago",
+            "review": "\"Nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "RESHMA K PUNJABI",
+            "posted": "20 months ago",
+            "review": "\"Suits everybody\"",
+            "score": 5
+        },
+        {
+            "customerName": "smraddhicustomer",
+            "posted": "20 months ago",
+            "review": "\"Nothing ,everything was good\"",
+            "score": 5
+        },
+        {
+            "customerName": "M S Sharma",
+            "posted": "20 months ago",
+            "review": "\"Very good for liver\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "19 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Anil Kumar Sawhney",
+            "posted": "8 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Satnam Singh",
+            "posted": "8 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Mohammad Mohtashim",
+            "posted": "8 months ago",
+            "review": "\"Awesome\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sabah ahmad",
+            "posted": "8 months ago",
+            "review": "\"Fast delivery and good service...\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kashif Khan",
+            "posted": "7 months ago",
+            "review": "\"Discount and fastest delivery\"",
+            "score": 5
+        },
+        {
+            "customerName": "Pankaj Kushwaha",
+            "posted": "7 months ago",
+            "review": "\"Not good\"",
+            "score": 3
+        },
+        {
+            "customerName": "Bhawani Khatri",
+            "posted": "15 months ago",
+            "review": "\"Good results\"",
+            "score": 4
+        },
+        {
+            "customerName": "Gopalalakrishnan N",
+            "posted": "14 months ago",
+            "review": "\"Yes really very good i appreciate your prompt supply\"",
+            "score": 2
+        },
+        {
+            "customerName": "Anita",
+            "posted": "14 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Aj",
+            "posted": "14 months ago",
+            "review": "\"It is good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Preeti Karamchandani ",
+            "posted": "15 months ago",
+            "review": "\"Can\u2019t review it so soon\"",
+            "score": 5
+        },
+        {
+            "customerName": "Vijay-kumar-bawa",
+            "posted": "14 months ago",
+            "review": "\"Good for lever\"",
+            "score": 4
+        },
+        {
+            "customerName": "Harish Chander Kotwal",
+            "posted": "14 months ago",
+            "review": "\"Excellent experience\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dinesh Sharma Sharma",
+            "posted": "14 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Parimal Deb",
+            "posted": "14 months ago",
+            "review": "\"Good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Khairul Islam",
+            "posted": "13 months ago",
+            "review": "\"It is a good product\"",
+            "score": 4
+        },
+        {
+            "customerName": "Rajesh Saikh",
+            "posted": "14 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "Uma Nagraj",
+            "posted": "14 months ago",
+            "review": "\"Too costly\"",
+            "score": 3
+        },
+        {
+            "customerName": "Gulrej Alam",
+            "posted": "13 months ago",
+            "review": "\"I like it this product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ranjeet Mandal",
+            "posted": "13 months ago",
+            "review": "\"All good\"",
+            "score": 5
+        },
+        {
+            "customerName": "KIRAN SHARMA",
+            "posted": "14 months ago",
+            "review": "\"\ud83d\udc4d\"",
+            "score": 4
+        },
+        {
+            "customerName": "Bhavna Sharma",
+            "posted": "14 months ago",
+            "review": "\"Excellent product at reasonable price\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ashok Kumar Sharma",
+            "posted": "14 months ago",
+            "review": "\"Best product for liver health\"",
+            "score": 5
+        },
+        {
+            "customerName": "PharmEasy User",
+            "posted": "14 months ago",
+            "review": "\"Good\"",
+            "score": 3
+        },
+        {
+            "customerName": "Ginni",
+            "posted": "12 months ago",
+            "review": "\"Nyc\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sandeep Taide",
+            "posted": "12 months ago",
+            "review": "\"Its really work\"",
+            "score": 3
+        },
+        {
+            "customerName": "Ranjit Paul",
+            "posted": "12 months ago",
+            "review": "\"Prompt and timely delivery\"",
+            "score": 4
+        },
+        {
+            "customerName": "Khairul Islam",
+            "posted": "6 months ago",
+            "review": "\"Really good\"",
+            "score": 4
+        },
+        {
+            "customerName": "Akhtar Alam",
+            "posted": "6 months ago",
+            "review": "\"FINE\"",
+            "score": 3
+        },
+        {
+            "customerName": "Navojit Debray",
+            "posted": "6 months ago",
+            "review": "\",\"",
+            "score": 4
+        },
+        {
+            "customerName": "Nabajit Sarma",
+            "posted": "7 months ago",
+            "review": "\"I Life this product very much\"",
+            "score": 5
+        },
+        {
+            "customerName": "Satish Kumar Pathak",
+            "posted": "6 months ago",
+            "review": "\"Good product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Kalyan Ghosh",
+            "posted": "6 months ago",
+            "review": "\"The product is of very high standard and using it for quite some time.\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sukumar Maity",
+            "posted": "6 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Ziyauddin Ansari",
+            "posted": "5 months ago",
+            "review": "\"Very good\"",
+            "score": 5
+        },
+        {
+            "customerName": "Jyotirmay Deka",
+            "posted": "5 months ago",
+            "review": "\"Good product\"",
+            "score": 4
+        },
+        {
+            "customerName": "Abdussamad",
+            "posted": "5 months ago",
+            "review": "\"Good for liver care\"",
+            "score": 5
+        },
+        {
+            "customerName": "Rajdeep Deka",
+            "posted": "10 months ago",
+            "review": "\"Nice\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dinesh Kumar Agarwal",
+            "posted": "11 months ago",
+            "review": "\"Good product\"",
+            "score": 4
+        },
+        {
+            "customerName": "George Varghese",
+            "posted": "3 months ago",
+            "review": "\"Excellent\"",
+            "score": 5
+        },
+        {
+            "customerName": "CHHOTU KUMAR",
+            "posted": "4 months ago",
+            "review": "\"I like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Dinesh Gohil",
+            "posted": "3 months ago",
+            "review": "\"Late delivery for my medicine\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sahadev Turi",
+            "posted": "2 months ago",
+            "review": "\"Nice product\"",
+            "score": 5
+        },
+        {
+            "customerName": "Sanjiv Chaudhari",
+            "posted": "3 months ago",
+            "review": "\"Like\"",
+            "score": 5
+        },
+        {
+            "customerName": "Gopesh Bhagabati",
+            "posted": "4 months ago",
+            "review": "\"Happy with PharmEasy\"",
+            "score": 4
+        }
+    ]
+}
