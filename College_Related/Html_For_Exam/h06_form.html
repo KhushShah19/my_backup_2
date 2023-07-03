@@ -1,0 +1,53 @@
+
+<html>
+    <body>
+        <h3>form basic</h3>
+        <form action="/where_to_submit" target="where_to_display_the_data"> 
+            <!--where to store that data-->
+
+            <label for="fname">Frist name:</label> <br>
+            <input type="text" id="fname" name="fname" value="Raj"> <br>
+            <label for="lname">Last name:</label> <br>
+            <input type="text" id="lname" name="lname" value="Kumar"> <br>
+            <label for="pw">write your password:</label>
+            <input type="password" id="pw"><br>
+            <label for="bod">Your date of birth:</label> <br>
+            <input type="date" id="bod" name="bod" max="2021-12-19" min="2020-05-05"> <br><br>
+            <label for="rag">range value</label>
+            <input type="range" id="rag" name="numb" max="100" min="10"><br>
+            <label for="numb">put some number: </label>
+            <input type="number" id="numb" name="numb" max="100" min="10"><br><br>
+            <label for="myfile">select a file</label>
+            <input type="file" id="myfile" name="myfile">
+            <br>
+            <!-- input is a tag
+            type = what type of input we what to revice
+            id == to match the lable with it (can even click on lables)
+            name == to match all the common input types
+            value = 
+            lable = to describe about the input tag
+            for == to link it with input tag by id
+            -->
+            <h4>Radio option (zero or only one)</h4>
+            <input type="radio" id="html" name="lan1" value="Html">
+            <label for="html">HTML</label> <br>
+            <input type="radio" id="css" name="lan1" value="css">
+            <label for="css">CSS</label><br>
+            <input type="radio" id="java" name="lan2" value="javas">
+            <label for="java">Java Script</label>
+            <br>
+            <h4>Checkbox (zero or more)</h4>
+            <input type="checkbox" id="car" name="veh" value="veh1">
+            <label for="car">I have a Car</label><br>
+            <input type="checkbox" id="bike" name="veh" value="veh2">
+            <label for="bike">I have a Bike</label><br>
+            <input type="checkbox" id="carbike" name="veh" value="veh3">
+            <label for="carbike">I have both Car and Bike</label><br>
+
+            <h4>submit button</h4>
+            <input type="submit" value="Submit by chicking on it">
+            <!-- Once the submit button is press the whole form become black -->
+            <input type="reset">
+        </form>
+    </body>
+</html>

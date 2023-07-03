@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <style>
+            .city {
+                background-color: aliceblue;
+                margin: 20px;
+                border: 3px solid blueviolet;
+                padding: 10px;
+                padding-left: 60px;
+            }
+            .note {background-color: rgb(50, 238, 175);}
+            .another {color: rgb(237, 20, 96);}
+            #myid_tag {background-color: antiquewhite; color: blueviolet;}
+        </style>
+
+    </head>
+    <body>
+        <!--Class are used in CSS and Java
+        The HTML class attribute specifies one or more class names for an element.
+        The class attribute can be used on any HTML element
+        The class name is case sensitive
+        Different HTML elements can point to the same class name
+        Can also use 'id' instead of class attribute.
+        -->
+        <dir class="city">
+            <h4>city1</h4>
+            <p>captial1</p>
+        </dir>
+        <dir class = 'city'>
+            <h3>city2</h3>
+            <p>captial2</p>
+        </dir>
+        <dir class="city2">
+            <h3>city3</h3>
+            <p>captial3</p>
+        </dir>
+        <dir>
+            <h3> blocks and inlines</h3>
+            <p>some praagraph with <span style="background-color: skyblue;">colors in it</span></p>
+            <p>some paragraph with <span class="another">color in it</span></p>
+            <p>some paragraph with <span class="another note">color in it</span></p>
+            <p>some paragraph with <span class="city note">color in it</span></p>
+            <p>some paragraph with <span id="myid_tag">color in it</span></p>
+        </dir>
+        <!-- here block == dir and inline == span -->
+    </body>
+</html>
